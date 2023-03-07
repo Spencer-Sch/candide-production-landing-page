@@ -4,7 +4,11 @@ I built a clone of the company's landing page in HTML/CSS/JS. This project was l
 
 The codebase is hosted in a private repo on Gitlab.
 
-<img src="./assets/candide-site.png" width="400px" />
+### <a href="https://candide.site/">candide.site</a>
+
+<a href="https://candide.site/" target="_blank">
+<img src="./assets/candide-site.png" alt="candide landing page screen shot" width="400px" />
+</a>
 
 ## Site Advancements
 
