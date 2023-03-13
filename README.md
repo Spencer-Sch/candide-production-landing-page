@@ -1,24 +1,28 @@
 # <img align="left" alt="Candide" width="36px" src="./assets/logo.png" />Candide Landing Page
 
-I built a clone of the company's landing page in HTML/CSS/JS. This project was later upgraded to a Nuxt project.
+I cloned the company's existing site and made certain advancements. See below for more details.
 
-The codebase is hosted in a private repo on Gitlab.
+🟣 Note: the codebase is hosted in a private repo on Gitlab. Please contact me if you would like more details about the code.
 
-### <a href="https://candide.site/">candide.site</a>
+### 🏠 <a href="https://candide.site/">candide.site</a>
 
 <a href="https://candide.site/" target="_blank">
 <img src="./assets/candide-site.png" alt="candide landing page screen shot" width="400px" />
 </a>
 
-## Site Advancements
+## Table of Contents
 
-Improvements I made to the site after cloning it:
+<details open>
+<summary></summary>
 
-- I made the site fully responsive
-- I built a server middleware to process and send email subscriptions to our mailing list provider
-- I added validation, validation styles, and loading state to the email input as well as success/error popup components
-- I improved the resolution and consistency of the team member avatar images
-- I added the header which contains the links to our company whitepaper and social media pages
+- [About Candide](#about-candide)
+- [The Site](#the-site)
+  - [Technologies Used](#technologies-used)
+- [Site Advancements](#site-advancements)
+
+</details>
+
+<br>
 
 ## About Candide
 
@@ -36,7 +40,7 @@ The Candide marketplace will allow users to rent p2e NFTs for their favorite NFT
 <br>
 
 [<img align="left" alt="Candide | Discord" width="35px" src="https://s3-storage.textopus.nl/wp-content/uploads/2015/05/18050104/Discord-icon-270x270.png" />][discord]
-[<img align="left" alt="Candide | LinkedIn" width="35px" src="https://algomine.pl/wp-content/uploads/LinkedIn-Icon-380x380.png" />][linkedin]
+[<img align="left" alt="Candide | LinkedIn" width="35px" src="https://camo.githubusercontent.com/9d66eeaa79b4f53e7ab2d6a0169bf220829f0bac4c21c57576a09371111a838d/68747470733a2f2f616c676f6d696e652e706c2f77702d636f6e74656e742f75706c6f6164732f4c696e6b6564496e2d49636f6e2d333830783338302e706e67" />][linkedin]
 [<img align="left" alt="Candide | Twitter" width="35px" src="https://www.seekpng.com/png/full/5-54303_twitter-introduces-a-new-app-for-windows-twitter.png" />][twitter]
 [<img align="left" alt="Candide | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
@@ -44,3 +48,22 @@ The Candide marketplace will allow users to rent p2e NFTs for their favorite NFT
 [instagram]: https://www.instagram.com/candidenft/
 [linkedin]: https://www.linkedin.com/company/candidenft/
 [discord]: https://discord.com/channels/1000021187600076810/1000021854058205224
+
+<br>
+
+## The Site
+
+### Technologies Used:
+
+- Original build: HTML/CSS/JS
+- Upgraded to: Nuxt/Vue, Node/Express
+
+## Site Advancements
+
+Improvements I made to the site:
+
+- I built a server middleware to process and send email subscriptions to our mailing list provider
+- I added validation logic, conditional styles, and loading state to the email input as well as success/error popup components
+- I improved the resolution and consistency of the team member avatar images
+- I added the header which contains the links to our company whitepaper and social media pages
+- I made the site fully responsive
