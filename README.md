@@ -2,9 +2,10 @@
 
 I cloned the company's existing site and made certain advancements. See below for more details.
 
-🟣 Note: the codebase is hosted in a private repo on Gitlab. Please contact me if you would like more details about the code.
+🟣 Note: The project files are hosted in a private repo on Gitlab.
 
-### 🏠 <a href="https://candide.site/">candide.site</a>
+
+#### 🏠 <a href="https://candide.site/">candide.site</a>
 
 <a href="https://candide.site/" target="_blank">
 <img src="./assets/candide-site.png" alt="candide landing page screen shot" width="400px" />
@@ -21,7 +22,6 @@ I cloned the company's existing site and made certain advancements. See below fo
 - [Site Advancements](#site-advancements)
 
 </details>
-
 <br>
 
 ## About Candide
@@ -35,9 +35,7 @@ The Candide marketplace will allow users to rent p2e NFTs for their favorite NFT
   <br>
   <br>
 
-### Come Say Hello
-
-<br>
+#### Come Say Hello 👋
 
 [<img align="left" alt="Candide | Discord" width="35px" src="https://s3-storage.textopus.nl/wp-content/uploads/2015/05/18050104/Discord-icon-270x270.png" />][discord]
 [<img align="left" alt="Candide | LinkedIn" width="35px" src="https://camo.githubusercontent.com/9d66eeaa79b4f53e7ab2d6a0169bf220829f0bac4c21c57576a09371111a838d/68747470733a2f2f616c676f6d696e652e706c2f77702d636f6e74656e742f75706c6f6164732f4c696e6b6564496e2d49636f6e2d333830783338302e706e67" />][linkedin]
@@ -49,6 +47,8 @@ The Candide marketplace will allow users to rent p2e NFTs for their favorite NFT
 [linkedin]: https://www.linkedin.com/company/candidenft/
 [discord]: https://discord.com/channels/1000021187600076810/1000021854058205224
 
+<br>
+<br>
 <br>
 
 ## The Site
